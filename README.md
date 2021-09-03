@@ -4,8 +4,7 @@
 - and i guess data analytics provides me with that opportunity 🤷‍♂️..
 - Anyways, I'm new to this data analytics stuff and currently learning how to code using SQL through creating projects...
 - For any collaborative projects that needs some SQL coding , hit me up at noelmajola@gmail.com ...
-- Piece ✌ or Yours sincerely 🤔 ?
-- Man ! this is tricky 🤦‍♂️.
+- Piece ✌.
 
 
 <!--
