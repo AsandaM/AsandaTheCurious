@@ -1,5 +1,5 @@
 ### Hi there 👋
-- AsandaThecurious is the name...😜
+- Asanda.M is the name...😜
 - (☞ﾟヮﾟ)☞ I'm a dude who enjoys getting their hands dirty just to find that missing piece of the puzzle ...
 - and i guess data analytics provides me with that opportunity 🤷‍♂️..
 - Anyways, I'm new to this data analytics stuff and currently learning how to code using SQL through creating projects...
