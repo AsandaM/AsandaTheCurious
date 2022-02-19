@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Asandah_Dev is the name...😜
+- AsandahDevs is the name...😜
 - (☞ﾟヮﾟ)☞ I'm a dude who admires web develeopment and all things related to UI/UX which sorts of makes me biased towards front-end web development...
 - This is thanks to user friendly,aesthetically appealing and interactive online shopping sites such as Takealot(SA).
 - Currently learning JavaScript.
