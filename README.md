@@ -2,7 +2,7 @@
 - AsandahDevs is the name...😜
 - (☞ﾟヮﾟ)☞ I'm a dude who admires web develeopment and all things related to UI/UX which sorts of makes me biased towards front-end web development...
 - This is thanks to user friendly,aesthetically appealing and interactive online shopping 🛒 sites such as Takealot(SA).
-- Currently learning JavaScript.
+- I suffer from  feelings of ambivalence concerning JavaScript.
 - languages I'm familiar with include HTML,CSS and SQL.
 - If anyone is open for any front-end web development collaborations hit me up at noelmajola@gmail.com.
 
