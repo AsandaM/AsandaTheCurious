@@ -3,6 +3,7 @@
 - (☞ﾟヮﾟ)☞ I'm a dude who admires web develeopment and all things related to UI/UX which sorts of makes me biased towards front-end web development...
 - This is thanks to user friendly,aesthetically appealing and interactive online shopping 🛒 sites such as Takealot(SA).
 - JavaScript is what keeps me alive and awake at night 🤕
+- Currently learning react 
 - languages I'm familiar with include HTML,CSS, JavaScript and SQL.
 - If anyone is open for any front-end web development collaborations hit me up at noelmajola@gmail.com.
 
