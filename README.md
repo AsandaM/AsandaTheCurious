@@ -1,6 +1,6 @@
 ### Hi there 👋
 - AsandahDevs is the name...😜
-- (☞ﾟヮﾟ)☞ I'm a dude who admires web develeopment and all things related to UI/UX which sorts of makes me biased towards front-end web development...
+- (☞ﾟヮﾟ)☞ I'm a dude who admires web develeopment and all things related to UI/UX which sort of makes me biased towards front-end web development...
 - JavaScript...oh well 🤕
 - Currently learning react 
 - languages I'm familiar with include HTML,CSS, JavaScript and SQL.
