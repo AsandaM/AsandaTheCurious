@@ -2,7 +2,8 @@
 - AsandahDevs is the name...😜
 - (☞ﾟヮﾟ)☞ I'm a dude whose passionate about web development especially all things related to UI/UX which sort of makes me biased towards front-end web development...
 - Relationship status:JavaScript 🤕
-- Currently learning react ![React logo](https://user-images.githubusercontent.com/89397749/174077934-d240e914-e56c-4c77-bcb6-119c5d9bf052.png) 
+- Currently learning react <img width="15" alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">
+
 - languages I'm familiar with include HTML,CSS, JavaScript and SQL.
 - If anyone is open for any front-end web development collaborations hit me up at noelmajola@gmail.com.
 
