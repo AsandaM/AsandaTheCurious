@@ -4,7 +4,7 @@
 - JavaScript is a language i use on a regular basis
 -  React.js fan boy <img width="15" alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">
 
-- Programming languages I'm familiar with include HTML,CSS, JavaScript , react.js and SQL.
+- Programming languages I'm familiar with include HTML,CSS, JavaScript and SQL.
 - I guess you can label me as multi-lingual 🤷🏽‍♂️
 - If anyone is open for any front-end web development collaborations hit me up at noelmajola@gmail.com.
 
