@@ -5,13 +5,13 @@
 - React.js <img width="15" alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">  is my preferred JavaScript library for creating interactive user interfaces
 
 ## Programming languages i'm proficient in:
-* HTML,
-* CSS, 
+* HTML
+* CSS
 * JavaScript 
-*  SQL.
+*  SQL
 
-I guess you can label me as multi-lingual 🤷🏽‍♂️.
-If anyone is open for any front-end web development collaborations hit me up at noelmajola@gmail.com.
+Based on the above languages i guess you can label me as multi-lingual 🤷🏽‍♂️.
+Anyways, if you're open for any front-end web development collaborations hit me up at noelmajola@gmail.com.
 
 
 <!--
