@@ -10,8 +10,7 @@
 * JavaScript 
 *  SQL
 
-Based on the above languages i guess you can label me as multi-lingual 🤷🏽‍♂️.
-Anyways, if you're open for any front-end web development collaborations hit me up at noelmajola@gmail.com.
+ If, by any chance , you're open for some front-end web development collaborations hit me up at noelmajola@gmail.com.
 
 
 <!--
