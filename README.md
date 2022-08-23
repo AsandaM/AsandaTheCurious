@@ -16,6 +16,8 @@
 
 * CSS <img width=20 alt="css logo" src="https://user-images.githubusercontent.com/89397749/185697319-816f0c5f-fcdb-411a-8be4-627640e97f7a.svg">
 
+* Bootstrap (CSS framework) <img width=20 alt="bootstrap logo" src="https://user-images.githubusercontent.com/89397749/186191188-6453c852-d50a-4c8a-af0a-ae295057c65b.svg">
+
 * JavaScript <img width=20 alt="JavaScript logo" src="https://user-images.githubusercontent.com/89397749/185697218-f1a8c0cf-a9b3-4ab8-9488-ccb51e49468a.svg">
 
 * React.js  <img width=20 alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">
