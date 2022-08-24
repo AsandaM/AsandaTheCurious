@@ -30,6 +30,10 @@
 
 - Visual studio code <img width=20 alt="Visual studio code logo" src="https://user-images.githubusercontent.com/89397749/185702727-b607ac76-72c7-467f-9b1e-e969a17904d6.svg">
 
+## Github stats
+
+![Github stats](https://user-images.githubusercontent.com/89397749/186528367-cf693079-f6f3-4847-b48d-d2e66ea70f20.svg)
+
  If, by any chance , you're open for some front-end web development collaborations hit me up at noelmajola@gmail.com.
 
 
