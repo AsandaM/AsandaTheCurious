@@ -32,7 +32,7 @@
 
 ## Github stats
 
-![Github stats](https://user-images.githubusercontent.com/89397749/186528367-cf693079-f6f3-4847-b48d-d2e66ea70f20.svg)
+[![Asanda Majola's GitHub stats](https://github-readme-stats.vercel.app/api?username=asandahdevs&show_icons=true&theme=radical)](https://github.com/asandahdevs/github-readme-stats)
 
  If, by any chance , you're open for some front-end web development collaborations hit me up at noelmajola@gmail.com.
 
