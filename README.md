@@ -8,7 +8,7 @@
 
 - JavaScript is my go-to langauage for web development.
 
-- React.js <img width="15" alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">  is my preferred JavaScript library for creating interactive user interfaces simply because i no longer have to interact with the DOM.
+- React.js <img width="15" alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">  is my preferred JavaScript library for creating interactive user interfaces simply because i enjoy the idea of resuable and composible components which addresses the concept of D.R.Y (don't repeat yourself) in the software development space.
 
 ## My tech stack
 
