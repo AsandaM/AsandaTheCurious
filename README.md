@@ -1,6 +1,6 @@
 # Hi there 👋
 
- I'm Asanda Majola..A 22 year old junior front end web developer from Durban,South Africa.
+ I'm Asanda Majola..A 23 year old junior front end web developer from Durban,South Africa.
  
 - ☞ ☞ I'm a dude whose passionate about web development especially all things related to UI/UX which sort of makes me biased towards front-end web development.
 
