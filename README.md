@@ -1,5 +1,7 @@
 <a href="https://www.linkedin.com/in/asanda-majola-738067186/" target="_blank"><img src="https://user-images.githubusercontent.com/89397749/189480662-9569c425-1d99-472b-9a15-3ab5823f7045.png" alt="linkedIn logo" width="100" height="auto"/></a>
 
+<a href="noelmajola@gmail.com"><img src="https://user-images.githubusercontent.com/89397749/189481315-b4960853-1dba-412b-af42-5a9dc5902011.png" width="100" height="auto" alt="Gmail"/></a>
+
 
 # Hi there 👋
 
