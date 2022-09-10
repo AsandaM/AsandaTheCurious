@@ -28,17 +28,17 @@
 
 *  SQL <img width=20 alt="SQL logo" src="https://user-images.githubusercontent.com/89397749/185701772-690f4779-679c-4b45-aa3e-656d1c263bf5.png">
 
-## My developer tools
+## My developer tools ⚒️
 
 - Git version control <img width=30 alt="Git logo" src="https://user-images.githubusercontent.com/89397749/185702457-f93431e0-8a68-4f73-8d18-b4f14ada635b.svg">
 
 - Visual studio code <img width=20 alt="Visual studio code logo" src="https://user-images.githubusercontent.com/89397749/185702727-b607ac76-72c7-467f-9b1e-e969a17904d6.svg">
 
-## Github stats
+## Github stats 🤓
 
 [![Asanda Majola's GitHub stats](https://github-readme-stats.vercel.app/api?username=asandahdevs&show_icons=true&theme=radical)](https://github.com/asandahdevs/github-readme-stats)
 
-## Contact me
+## Contact me 
 
 For client-side development work , you can reach me at noelmajola@gmail.com 
 
