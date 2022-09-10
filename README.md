@@ -38,7 +38,7 @@
 
 [![Asanda Majola's GitHub stats](https://github-readme-stats.vercel.app/api?username=asandahdevs&show_icons=true&theme=radical)](https://github.com/asandahdevs/github-readme-stats)
 
-## Contact me 
+## Contact me <img src="https://user-images.githubusercontent.com/89397749/189481941-d6aab299-0bab-4f5d-b9ae-22377dc0206c.png" width="20" height="auto" alt="Gmail logo"/>
 
 For client-side development work , you can reach me at noelmajola@gmail.com 
 
