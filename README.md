@@ -1,4 +1,9 @@
+<a href="https://www.linkedin.com/in/asanda-majola-738067186/" target="_blank"><img src="https://user-images.githubusercontent.com/89397749/189480662-9569c425-1d99-472b-9a15-3ab5823f7045.png" alt="linkedIn logo" width="100" height="auto"/></a>
+
+
 # Hi there 👋
+
+## About me
 
  I'm Asanda Majola..A 23 year old junior front end web developer from Durban,South Africa.
  
@@ -33,9 +38,6 @@
 ## Github stats
 
 [![Asanda Majola's GitHub stats](https://github-readme-stats.vercel.app/api?username=asandahdevs&show_icons=true&theme=radical)](https://github.com/asandahdevs/github-readme-stats)
-
- If, by any chance , you're open for some front-end web development collaborations hit me up at noelmajola@gmail.com.
-
 
 <!--
 **AsandaTheCurious/AsandaTheCurious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
