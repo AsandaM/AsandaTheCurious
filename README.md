@@ -12,7 +12,8 @@
 
 - JavaScript is my go-to langauage for web development.
 
-- React.js <img width="15" alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">  is my preferred JavaScript library for creating interactive user interfaces simply because i enjoy the idea of reusable and composible components which addresses the concept of D.R.Y (don't repeat yourself) in the software development space.
+- Angular<img width=15 alt="Angular logo" src="https://user-images.githubusercontent.com/89397749/235459990-86171797-1549-43a4-b9b4-ce3e60480358.png">  is my preferred JavaScript framework for creating interactive user interfaces for complex business web applications, due to preconfigured libraries and tools that support 
+reactive programming , built-in route mechanism and client-server communications amongst other features.
 
 ## My tech stack
 
@@ -26,7 +27,8 @@
 
 * React.js  <img width=20 alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">
 
-*  SQL <img width=20 alt="SQL logo" src="https://user-images.githubusercontent.com/89397749/185701772-690f4779-679c-4b45-aa3e-656d1c263bf5.png">
+* Angular <img width=20 alt="Angular logo" src="https://user-images.githubusercontent.com/89397749/235459990-86171797-1549-43a4-b9b4-ce3e60480358.png">
+
 
 ## My developer tools ⚒️
 
