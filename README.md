@@ -1,4 +1,3 @@
-<a href="https://www.linkedin.com/in/asanda-majola-738067186/" target="_blank"><img src="https://user-images.githubusercontent.com/89397749/189480662-9569c425-1d99-472b-9a15-3ab5823f7045.png" alt="linkedIn logo" width="100" height="auto"/></a>
 
 # Hi there 👋
 
