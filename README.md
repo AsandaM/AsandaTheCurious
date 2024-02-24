@@ -3,16 +3,16 @@
 
 ## About me
 
- I'm Asanda Majola..A 23 year old junior front end web developer from Durban,South Africa.
+ I'm Asanda Majola.A junior front-end web developer from Durban, South Africa.
  
-- ☞ ☞ I'm a dude whose passionate about web development especially all things related to UI/UX which sort of makes me biased towards front-end web development.
+- ☞ ☞ I'm a dude who is passionate about web development especially all things related to UI/UX which sort of makes me biased towards front-end web development.
 
 - The sources of my inspiration stem from the fact that front-end web development requires a developer to abstract away any complexities that hide behind user interfaces in order to offer a rewarding user experience to an end-user.
 
-- JavaScript is my go-to langauage for web development.
+- JavaScript is my go-to language for web development.
 
 - Angular<img width=15 alt="Angular logo" src="https://user-images.githubusercontent.com/89397749/235459990-86171797-1549-43a4-b9b4-ce3e60480358.png">  is my preferred JavaScript framework for creating interactive user interfaces for complex business web applications, due to preconfigured libraries and tools that support 
-reactive programming , built-in route mechanism and client-server communications amongst other features.
+reactive programming, built-in route mechanism, and client-server communications amongst other features.
 
 ## My tech stack
 
@@ -41,7 +41,7 @@ reactive programming , built-in route mechanism and client-server communications
 
 ## Contact me <img src="https://user-images.githubusercontent.com/89397749/189481941-d6aab299-0bab-4f5d-b9ae-22377dc0206c.png" width="20" height="auto" alt="Gmail logo"/>
 
-For client-side development work , you can reach me at noelmajola@gmail.com 
+For client-side development work, you can reach me at noelmajola@gmail.com 
 
 <!--
 **AsandaTheCurious/AsandaTheCurious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
